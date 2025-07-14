@@ -1,4 +1,5 @@
 import oci
+import os
 
 def create_signer(config_profile, is_instance_principals, is_delegation_token):
 
