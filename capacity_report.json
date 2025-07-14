@@ -1,0 +1,2188 @@
+{
+    "2025-07-14": {
+        "UK-LONDON-1-AD-1": {
+            "BM.DenseIO.E4.128": {
+                "fault_domains": {
+                    "FAULT-DOMAIN-1": {
+                        "availability_status": "OUT_OF_HOST_CAPACITY",
+                        "available_count": null,
+                        "instance_shape": "BM.DenseIO.E4.128",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-2": {
+                        "availability_status": "OUT_OF_HOST_CAPACITY",
+                        "available_count": null,
+                        "instance_shape": "BM.DenseIO.E4.128",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-3": {
+                        "availability_status": "OUT_OF_HOST_CAPACITY",
+                        "available_count": null,
+                        "instance_shape": "BM.DenseIO.E4.128",
+                        "instance_shape_config": null
+                    }
+                }
+            },
+            "BM.DenseIO.E5.128": {
+                "fault_domains": {
+                    "FAULT-DOMAIN-1": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.DenseIO.E5.128",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-2": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.DenseIO.E5.128",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-3": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.DenseIO.E5.128",
+                        "instance_shape_config": null
+                    }
+                }
+            },
+            "BM.Standard2.52": {
+                "fault_domains": {
+                    "FAULT-DOMAIN-1": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard2.52",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-2": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard2.52",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-3": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard2.52",
+                        "instance_shape_config": null
+                    }
+                }
+            },
+            "BM.Standard3.64": {
+                "fault_domains": {
+                    "FAULT-DOMAIN-1": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard3.64",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-2": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard3.64",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-3": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard3.64",
+                        "instance_shape_config": null
+                    }
+                }
+            },
+            "BM.Standard.E4.128": {
+                "fault_domains": {
+                    "FAULT-DOMAIN-1": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard.E4.128",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-2": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard.E4.128",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-3": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard.E4.128",
+                        "instance_shape_config": null
+                    }
+                }
+            },
+            "BM.Standard.E5.192": {
+                "fault_domains": {
+                    "FAULT-DOMAIN-1": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard.E5.192",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-2": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard.E5.192",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-3": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard.E5.192",
+                        "instance_shape_config": null
+                    }
+                }
+            },
+            "BM.GPU.A10.4": {
+                "fault_domains": {
+                    "FAULT-DOMAIN-1": {
+                        "availability_status": "OUT_OF_HOST_CAPACITY",
+                        "available_count": null,
+                        "instance_shape": "BM.GPU.A10.4",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-2": {
+                        "availability_status": "OUT_OF_HOST_CAPACITY",
+                        "available_count": null,
+                        "instance_shape": "BM.GPU.A10.4",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-3": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.GPU.A10.4",
+                        "instance_shape_config": null
+                    }
+                }
+            }
+        },
+        "UK-LONDON-1-AD-2": {
+            "BM.DenseIO.E4.128": {
+                "fault_domains": {
+                    "FAULT-DOMAIN-1": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.DenseIO.E4.128",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-2": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.DenseIO.E4.128",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-3": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.DenseIO.E4.128",
+                        "instance_shape_config": null
+                    }
+                }
+            },
+            "BM.DenseIO.E5.128": {
+                "fault_domains": {
+                    "FAULT-DOMAIN-1": {
+                        "availability_status": "OUT_OF_HOST_CAPACITY",
+                        "available_count": null,
+                        "instance_shape": "BM.DenseIO.E5.128",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-2": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.DenseIO.E5.128",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-3": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.DenseIO.E5.128",
+                        "instance_shape_config": null
+                    }
+                }
+            },
+            "BM.Standard2.52": {
+                "fault_domains": {
+                    "FAULT-DOMAIN-1": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard2.52",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-2": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard2.52",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-3": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard2.52",
+                        "instance_shape_config": null
+                    }
+                }
+            },
+            "BM.Standard3.64": {
+                "fault_domains": {
+                    "FAULT-DOMAIN-1": {
+                        "availability_status": "OUT_OF_HOST_CAPACITY",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard3.64",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-2": {
+                        "availability_status": "OUT_OF_HOST_CAPACITY",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard3.64",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-3": {
+                        "availability_status": "OUT_OF_HOST_CAPACITY",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard3.64",
+                        "instance_shape_config": null
+                    }
+                }
+            },
+            "BM.Standard.E4.128": {
+                "fault_domains": {
+                    "FAULT-DOMAIN-1": {
+                        "availability_status": "OUT_OF_HOST_CAPACITY",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard.E4.128",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-2": {
+                        "availability_status": "OUT_OF_HOST_CAPACITY",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard.E4.128",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-3": {
+                        "availability_status": "OUT_OF_HOST_CAPACITY",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard.E4.128",
+                        "instance_shape_config": null
+                    }
+                }
+            },
+            "BM.Standard.E5.192": {
+                "fault_domains": {
+                    "FAULT-DOMAIN-1": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard.E5.192",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-2": {
+                        "availability_status": "OUT_OF_HOST_CAPACITY",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard.E5.192",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-3": {
+                        "availability_status": "OUT_OF_HOST_CAPACITY",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard.E5.192",
+                        "instance_shape_config": null
+                    }
+                }
+            },
+            "BM.GPU.A10.4": {
+                "fault_domains": {
+                    "FAULT-DOMAIN-1": {
+                        "availability_status": "OUT_OF_HOST_CAPACITY",
+                        "available_count": null,
+                        "instance_shape": "BM.GPU.A10.4",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-2": {
+                        "availability_status": "OUT_OF_HOST_CAPACITY",
+                        "available_count": null,
+                        "instance_shape": "BM.GPU.A10.4",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-3": {
+                        "availability_status": "OUT_OF_HOST_CAPACITY",
+                        "available_count": null,
+                        "instance_shape": "BM.GPU.A10.4",
+                        "instance_shape_config": null
+                    }
+                }
+            }
+        },
+        "UK-LONDON-1-AD-3": {
+            "BM.DenseIO.E4.128": {
+                "fault_domains": {
+                    "FAULT-DOMAIN-1": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.DenseIO.E4.128",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-2": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.DenseIO.E4.128",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-3": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.DenseIO.E4.128",
+                        "instance_shape_config": null
+                    }
+                }
+            },
+            "BM.DenseIO.E5.128": {
+                "fault_domains": {
+                    "FAULT-DOMAIN-1": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.DenseIO.E5.128",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-2": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.DenseIO.E5.128",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-3": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.DenseIO.E5.128",
+                        "instance_shape_config": null
+                    }
+                }
+            },
+            "BM.Standard2.52": {
+                "fault_domains": {
+                    "FAULT-DOMAIN-1": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard2.52",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-2": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard2.52",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-3": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard2.52",
+                        "instance_shape_config": null
+                    }
+                }
+            },
+            "BM.Standard3.64": {
+                "fault_domains": {
+                    "FAULT-DOMAIN-1": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard3.64",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-2": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard3.64",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-3": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard3.64",
+                        "instance_shape_config": null
+                    }
+                }
+            },
+            "BM.Standard.E4.128": {
+                "fault_domains": {
+                    "FAULT-DOMAIN-1": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard.E4.128",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-2": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard.E4.128",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-3": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard.E4.128",
+                        "instance_shape_config": null
+                    }
+                }
+            },
+            "BM.Standard.E5.192": {
+                "fault_domains": {
+                    "FAULT-DOMAIN-1": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard.E5.192",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-2": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard.E5.192",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-3": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard.E5.192",
+                        "instance_shape_config": null
+                    }
+                }
+            },
+            "BM.GPU.A10.4": {
+                "fault_domains": {
+                    "FAULT-DOMAIN-1": {
+                        "availability_status": "OUT_OF_HOST_CAPACITY",
+                        "available_count": null,
+                        "instance_shape": "BM.GPU.A10.4",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-2": {
+                        "availability_status": "OUT_OF_HOST_CAPACITY",
+                        "available_count": null,
+                        "instance_shape": "BM.GPU.A10.4",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-3": {
+                        "availability_status": "OUT_OF_HOST_CAPACITY",
+                        "available_count": null,
+                        "instance_shape": "BM.GPU.A10.4",
+                        "instance_shape_config": null
+                    }
+                }
+            }
+        },
+        "UK-CARDIFF-1-AD-1": {
+            "BM.DenseIO.E4.128": {
+                "fault_domains": {
+                    "FAULT-DOMAIN-1": {
+                        "availability_status": "HARDWARE_NOT_SUPPORTED",
+                        "available_count": null,
+                        "instance_shape": "BM.DenseIO.E4.128",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-2": {
+                        "availability_status": "HARDWARE_NOT_SUPPORTED",
+                        "available_count": null,
+                        "instance_shape": "BM.DenseIO.E4.128",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-3": {
+                        "availability_status": "HARDWARE_NOT_SUPPORTED",
+                        "available_count": null,
+                        "instance_shape": "BM.DenseIO.E4.128",
+                        "instance_shape_config": null
+                    }
+                }
+            },
+            "BM.DenseIO.E5.128": {
+                "fault_domains": {
+                    "FAULT-DOMAIN-1": {
+                        "availability_status": "HARDWARE_NOT_SUPPORTED",
+                        "available_count": null,
+                        "instance_shape": "BM.DenseIO.E5.128",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-2": {
+                        "availability_status": "HARDWARE_NOT_SUPPORTED",
+                        "available_count": null,
+                        "instance_shape": "BM.DenseIO.E5.128",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-3": {
+                        "availability_status": "HARDWARE_NOT_SUPPORTED",
+                        "available_count": null,
+                        "instance_shape": "BM.DenseIO.E5.128",
+                        "instance_shape_config": null
+                    }
+                }
+            },
+            "BM.Standard2.52": {
+                "fault_domains": {
+                    "FAULT-DOMAIN-1": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard2.52",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-2": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard2.52",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-3": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard2.52",
+                        "instance_shape_config": null
+                    }
+                }
+            },
+            "BM.Standard3.64": {
+                "fault_domains": {
+                    "FAULT-DOMAIN-1": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard3.64",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-2": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard3.64",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-3": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard3.64",
+                        "instance_shape_config": null
+                    }
+                }
+            },
+            "BM.Standard.E4.128": {
+                "fault_domains": {
+                    "FAULT-DOMAIN-1": {
+                        "availability_status": "OUT_OF_HOST_CAPACITY",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard.E4.128",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-2": {
+                        "availability_status": "OUT_OF_HOST_CAPACITY",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard.E4.128",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-3": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard.E4.128",
+                        "instance_shape_config": null
+                    }
+                }
+            },
+            "BM.Standard.E5.192": {
+                "fault_domains": {
+                    "FAULT-DOMAIN-1": {
+                        "availability_status": "OUT_OF_HOST_CAPACITY",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard.E5.192",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-2": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard.E5.192",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-3": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard.E5.192",
+                        "instance_shape_config": null
+                    }
+                }
+            },
+            "BM.GPU.A10.4": {
+                "fault_domains": {
+                    "FAULT-DOMAIN-1": {
+                        "availability_status": "HARDWARE_NOT_SUPPORTED",
+                        "available_count": null,
+                        "instance_shape": "BM.GPU.A10.4",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-2": {
+                        "availability_status": "HARDWARE_NOT_SUPPORTED",
+                        "available_count": null,
+                        "instance_shape": "BM.GPU.A10.4",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-3": {
+                        "availability_status": "HARDWARE_NOT_SUPPORTED",
+                        "available_count": null,
+                        "instance_shape": "BM.GPU.A10.4",
+                        "instance_shape_config": null
+                    }
+                }
+            }
+        },
+        "EU-FRANKFURT-1-AD-1": {
+            "BM.DenseIO.E4.128": {
+                "fault_domains": {
+                    "FAULT-DOMAIN-1": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.DenseIO.E4.128",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-2": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.DenseIO.E4.128",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-3": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.DenseIO.E4.128",
+                        "instance_shape_config": null
+                    }
+                }
+            },
+            "BM.DenseIO.E5.128": {
+                "fault_domains": {
+                    "FAULT-DOMAIN-1": {
+                        "availability_status": "HARDWARE_NOT_SUPPORTED",
+                        "available_count": null,
+                        "instance_shape": "BM.DenseIO.E5.128",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-2": {
+                        "availability_status": "HARDWARE_NOT_SUPPORTED",
+                        "available_count": null,
+                        "instance_shape": "BM.DenseIO.E5.128",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-3": {
+                        "availability_status": "HARDWARE_NOT_SUPPORTED",
+                        "available_count": null,
+                        "instance_shape": "BM.DenseIO.E5.128",
+                        "instance_shape_config": null
+                    }
+                }
+            },
+            "BM.Standard2.52": {
+                "fault_domains": {
+                    "FAULT-DOMAIN-1": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard2.52",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-2": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard2.52",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-3": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard2.52",
+                        "instance_shape_config": null
+                    }
+                }
+            },
+            "BM.Standard3.64": {
+                "fault_domains": {
+                    "FAULT-DOMAIN-1": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard3.64",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-2": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard3.64",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-3": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard3.64",
+                        "instance_shape_config": null
+                    }
+                }
+            },
+            "BM.Standard.E4.128": {
+                "fault_domains": {
+                    "FAULT-DOMAIN-1": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard.E4.128",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-2": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard.E4.128",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-3": {
+                        "availability_status": "OUT_OF_HOST_CAPACITY",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard.E4.128",
+                        "instance_shape_config": null
+                    }
+                }
+            },
+            "BM.Standard.E5.192": {
+                "fault_domains": {
+                    "FAULT-DOMAIN-1": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard.E5.192",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-2": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard.E5.192",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-3": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard.E5.192",
+                        "instance_shape_config": null
+                    }
+                }
+            },
+            "BM.GPU.A10.4": {
+                "fault_domains": {
+                    "FAULT-DOMAIN-1": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.GPU.A10.4",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-2": {
+                        "availability_status": "OUT_OF_HOST_CAPACITY",
+                        "available_count": null,
+                        "instance_shape": "BM.GPU.A10.4",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-3": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.GPU.A10.4",
+                        "instance_shape_config": null
+                    }
+                }
+            }
+        },
+        "EU-FRANKFURT-1-AD-2": {
+            "BM.DenseIO.E4.128": {
+                "fault_domains": {
+                    "FAULT-DOMAIN-1": {
+                        "availability_status": "OUT_OF_HOST_CAPACITY",
+                        "available_count": null,
+                        "instance_shape": "BM.DenseIO.E4.128",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-2": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.DenseIO.E4.128",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-3": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.DenseIO.E4.128",
+                        "instance_shape_config": null
+                    }
+                }
+            },
+            "BM.DenseIO.E5.128": {
+                "fault_domains": {
+                    "FAULT-DOMAIN-1": {
+                        "availability_status": "HARDWARE_NOT_SUPPORTED",
+                        "available_count": null,
+                        "instance_shape": "BM.DenseIO.E5.128",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-2": {
+                        "availability_status": "HARDWARE_NOT_SUPPORTED",
+                        "available_count": null,
+                        "instance_shape": "BM.DenseIO.E5.128",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-3": {
+                        "availability_status": "HARDWARE_NOT_SUPPORTED",
+                        "available_count": null,
+                        "instance_shape": "BM.DenseIO.E5.128",
+                        "instance_shape_config": null
+                    }
+                }
+            },
+            "BM.Standard2.52": {
+                "fault_domains": {
+                    "FAULT-DOMAIN-1": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard2.52",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-2": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard2.52",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-3": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard2.52",
+                        "instance_shape_config": null
+                    }
+                }
+            },
+            "BM.Standard3.64": {
+                "fault_domains": {
+                    "FAULT-DOMAIN-1": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard3.64",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-2": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard3.64",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-3": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard3.64",
+                        "instance_shape_config": null
+                    }
+                }
+            },
+            "BM.Standard.E4.128": {
+                "fault_domains": {
+                    "FAULT-DOMAIN-1": {
+                        "availability_status": "OUT_OF_HOST_CAPACITY",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard.E4.128",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-2": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard.E4.128",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-3": {
+                        "availability_status": "OUT_OF_HOST_CAPACITY",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard.E4.128",
+                        "instance_shape_config": null
+                    }
+                }
+            },
+            "BM.Standard.E5.192": {
+                "fault_domains": {
+                    "FAULT-DOMAIN-1": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard.E5.192",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-2": {
+                        "availability_status": "OUT_OF_HOST_CAPACITY",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard.E5.192",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-3": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard.E5.192",
+                        "instance_shape_config": null
+                    }
+                }
+            },
+            "BM.GPU.A10.4": {
+                "fault_domains": {
+                    "FAULT-DOMAIN-1": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.GPU.A10.4",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-2": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.GPU.A10.4",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-3": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.GPU.A10.4",
+                        "instance_shape_config": null
+                    }
+                }
+            }
+        },
+        "EU-FRANKFURT-1-AD-3": {
+            "BM.DenseIO.E4.128": {
+                "fault_domains": {
+                    "FAULT-DOMAIN-1": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.DenseIO.E4.128",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-2": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.DenseIO.E4.128",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-3": {
+                        "availability_status": "OUT_OF_HOST_CAPACITY",
+                        "available_count": null,
+                        "instance_shape": "BM.DenseIO.E4.128",
+                        "instance_shape_config": null
+                    }
+                }
+            },
+            "BM.DenseIO.E5.128": {
+                "fault_domains": {
+                    "FAULT-DOMAIN-1": {
+                        "availability_status": "HARDWARE_NOT_SUPPORTED",
+                        "available_count": null,
+                        "instance_shape": "BM.DenseIO.E5.128",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-2": {
+                        "availability_status": "HARDWARE_NOT_SUPPORTED",
+                        "available_count": null,
+                        "instance_shape": "BM.DenseIO.E5.128",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-3": {
+                        "availability_status": "HARDWARE_NOT_SUPPORTED",
+                        "available_count": null,
+                        "instance_shape": "BM.DenseIO.E5.128",
+                        "instance_shape_config": null
+                    }
+                }
+            },
+            "BM.Standard2.52": {
+                "fault_domains": {
+                    "FAULT-DOMAIN-1": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard2.52",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-2": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard2.52",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-3": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard2.52",
+                        "instance_shape_config": null
+                    }
+                }
+            },
+            "BM.Standard3.64": {
+                "fault_domains": {
+                    "FAULT-DOMAIN-1": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard3.64",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-2": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard3.64",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-3": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard3.64",
+                        "instance_shape_config": null
+                    }
+                }
+            },
+            "BM.Standard.E4.128": {
+                "fault_domains": {
+                    "FAULT-DOMAIN-1": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard.E4.128",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-2": {
+                        "availability_status": "OUT_OF_HOST_CAPACITY",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard.E4.128",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-3": {
+                        "availability_status": "OUT_OF_HOST_CAPACITY",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard.E4.128",
+                        "instance_shape_config": null
+                    }
+                }
+            },
+            "BM.Standard.E5.192": {
+                "fault_domains": {
+                    "FAULT-DOMAIN-1": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard.E5.192",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-2": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard.E5.192",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-3": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard.E5.192",
+                        "instance_shape_config": null
+                    }
+                }
+            },
+            "BM.GPU.A10.4": {
+                "fault_domains": {
+                    "FAULT-DOMAIN-1": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.GPU.A10.4",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-2": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.GPU.A10.4",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-3": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.GPU.A10.4",
+                        "instance_shape_config": null
+                    }
+                }
+            }
+        },
+        "EU-AMSTERDAM-1-AD-1": {
+            "BM.DenseIO.E4.128": {
+                "fault_domains": {
+                    "FAULT-DOMAIN-1": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.DenseIO.E4.128",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-2": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.DenseIO.E4.128",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-3": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.DenseIO.E4.128",
+                        "instance_shape_config": null
+                    }
+                }
+            },
+            "BM.DenseIO.E5.128": {
+                "fault_domains": {
+                    "FAULT-DOMAIN-1": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.DenseIO.E5.128",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-2": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.DenseIO.E5.128",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-3": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.DenseIO.E5.128",
+                        "instance_shape_config": null
+                    }
+                }
+            },
+            "BM.Standard2.52": {
+                "fault_domains": {
+                    "FAULT-DOMAIN-1": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard2.52",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-2": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard2.52",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-3": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard2.52",
+                        "instance_shape_config": null
+                    }
+                }
+            },
+            "BM.Standard3.64": {
+                "fault_domains": {
+                    "FAULT-DOMAIN-1": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard3.64",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-2": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard3.64",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-3": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard3.64",
+                        "instance_shape_config": null
+                    }
+                }
+            },
+            "BM.Standard.E4.128": {
+                "fault_domains": {
+                    "FAULT-DOMAIN-1": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard.E4.128",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-2": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard.E4.128",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-3": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard.E4.128",
+                        "instance_shape_config": null
+                    }
+                }
+            },
+            "BM.Standard.E5.192": {
+                "fault_domains": {
+                    "FAULT-DOMAIN-1": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard.E5.192",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-2": {
+                        "availability_status": "OUT_OF_HOST_CAPACITY",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard.E5.192",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-3": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard.E5.192",
+                        "instance_shape_config": null
+                    }
+                }
+            },
+            "BM.GPU.A10.4": {
+                "fault_domains": {
+                    "FAULT-DOMAIN-1": {
+                        "availability_status": "HARDWARE_NOT_SUPPORTED",
+                        "available_count": null,
+                        "instance_shape": "BM.GPU.A10.4",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-2": {
+                        "availability_status": "HARDWARE_NOT_SUPPORTED",
+                        "available_count": null,
+                        "instance_shape": "BM.GPU.A10.4",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-3": {
+                        "availability_status": "HARDWARE_NOT_SUPPORTED",
+                        "available_count": null,
+                        "instance_shape": "BM.GPU.A10.4",
+                        "instance_shape_config": null
+                    }
+                }
+            }
+        },
+        "EU-PARIS-1-AD-1": {
+            "BM.DenseIO.E4.128": {
+                "fault_domains": {
+                    "FAULT-DOMAIN-1": {
+                        "availability_status": "HARDWARE_NOT_SUPPORTED",
+                        "available_count": null,
+                        "instance_shape": "BM.DenseIO.E4.128",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-2": {
+                        "availability_status": "HARDWARE_NOT_SUPPORTED",
+                        "available_count": null,
+                        "instance_shape": "BM.DenseIO.E4.128",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-3": {
+                        "availability_status": "HARDWARE_NOT_SUPPORTED",
+                        "available_count": null,
+                        "instance_shape": "BM.DenseIO.E4.128",
+                        "instance_shape_config": null
+                    }
+                }
+            },
+            "BM.DenseIO.E5.128": {
+                "fault_domains": {
+                    "FAULT-DOMAIN-1": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.DenseIO.E5.128",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-2": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.DenseIO.E5.128",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-3": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.DenseIO.E5.128",
+                        "instance_shape_config": null
+                    }
+                }
+            },
+            "BM.Standard2.52": {
+                "fault_domains": {
+                    "FAULT-DOMAIN-1": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard2.52",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-2": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard2.52",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-3": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard2.52",
+                        "instance_shape_config": null
+                    }
+                }
+            },
+            "BM.Standard3.64": {
+                "fault_domains": {
+                    "FAULT-DOMAIN-1": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard3.64",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-2": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard3.64",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-3": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard3.64",
+                        "instance_shape_config": null
+                    }
+                }
+            },
+            "BM.Standard.E4.128": {
+                "fault_domains": {
+                    "FAULT-DOMAIN-1": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard.E4.128",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-2": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard.E4.128",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-3": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard.E4.128",
+                        "instance_shape_config": null
+                    }
+                }
+            },
+            "BM.Standard.E5.192": {
+                "fault_domains": {
+                    "FAULT-DOMAIN-1": {
+                        "availability_status": "OUT_OF_HOST_CAPACITY",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard.E5.192",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-2": {
+                        "availability_status": "OUT_OF_HOST_CAPACITY",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard.E5.192",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-3": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard.E5.192",
+                        "instance_shape_config": null
+                    }
+                }
+            },
+            "BM.GPU.A10.4": {
+                "fault_domains": {
+                    "FAULT-DOMAIN-1": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.GPU.A10.4",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-2": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.GPU.A10.4",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-3": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.GPU.A10.4",
+                        "instance_shape_config": null
+                    }
+                }
+            }
+        },
+        "EU-MARSEILLE-1-AD-1": {
+            "BM.DenseIO.E4.128": {
+                "fault_domains": {
+                    "FAULT-DOMAIN-1": {
+                        "availability_status": "HARDWARE_NOT_SUPPORTED",
+                        "available_count": null,
+                        "instance_shape": "BM.DenseIO.E4.128",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-2": {
+                        "availability_status": "HARDWARE_NOT_SUPPORTED",
+                        "available_count": null,
+                        "instance_shape": "BM.DenseIO.E4.128",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-3": {
+                        "availability_status": "HARDWARE_NOT_SUPPORTED",
+                        "available_count": null,
+                        "instance_shape": "BM.DenseIO.E4.128",
+                        "instance_shape_config": null
+                    }
+                }
+            },
+            "BM.DenseIO.E5.128": {
+                "fault_domains": {
+                    "FAULT-DOMAIN-1": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.DenseIO.E5.128",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-2": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.DenseIO.E5.128",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-3": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.DenseIO.E5.128",
+                        "instance_shape_config": null
+                    }
+                }
+            },
+            "BM.Standard2.52": {
+                "fault_domains": {
+                    "FAULT-DOMAIN-1": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard2.52",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-2": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard2.52",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-3": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard2.52",
+                        "instance_shape_config": null
+                    }
+                }
+            },
+            "BM.Standard3.64": {
+                "fault_domains": {
+                    "FAULT-DOMAIN-1": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard3.64",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-2": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard3.64",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-3": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard3.64",
+                        "instance_shape_config": null
+                    }
+                }
+            },
+            "BM.Standard.E4.128": {
+                "fault_domains": {
+                    "FAULT-DOMAIN-1": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard.E4.128",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-2": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard.E4.128",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-3": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard.E4.128",
+                        "instance_shape_config": null
+                    }
+                }
+            },
+            "BM.Standard.E5.192": {
+                "fault_domains": {
+                    "FAULT-DOMAIN-1": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard.E5.192",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-2": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard.E5.192",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-3": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard.E5.192",
+                        "instance_shape_config": null
+                    }
+                }
+            },
+            "BM.GPU.A10.4": {
+                "fault_domains": {
+                    "FAULT-DOMAIN-1": {
+                        "availability_status": "HARDWARE_NOT_SUPPORTED",
+                        "available_count": null,
+                        "instance_shape": "BM.GPU.A10.4",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-2": {
+                        "availability_status": "HARDWARE_NOT_SUPPORTED",
+                        "available_count": null,
+                        "instance_shape": "BM.GPU.A10.4",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-3": {
+                        "availability_status": "HARDWARE_NOT_SUPPORTED",
+                        "available_count": null,
+                        "instance_shape": "BM.GPU.A10.4",
+                        "instance_shape_config": null
+                    }
+                }
+            }
+        },
+        "EU-MILAN-1-AD-1": {
+            "BM.DenseIO.E4.128": {
+                "fault_domains": {
+                    "FAULT-DOMAIN-1": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.DenseIO.E4.128",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-2": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.DenseIO.E4.128",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-3": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.DenseIO.E4.128",
+                        "instance_shape_config": null
+                    }
+                }
+            },
+            "BM.DenseIO.E5.128": {
+                "fault_domains": {
+                    "FAULT-DOMAIN-1": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.DenseIO.E5.128",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-2": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.DenseIO.E5.128",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-3": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.DenseIO.E5.128",
+                        "instance_shape_config": null
+                    }
+                }
+            },
+            "BM.Standard2.52": {
+                "fault_domains": {
+                    "FAULT-DOMAIN-1": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard2.52",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-2": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard2.52",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-3": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard2.52",
+                        "instance_shape_config": null
+                    }
+                }
+            },
+            "BM.Standard3.64": {
+                "fault_domains": {
+                    "FAULT-DOMAIN-1": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard3.64",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-2": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard3.64",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-3": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard3.64",
+                        "instance_shape_config": null
+                    }
+                }
+            },
+            "BM.Standard.E4.128": {
+                "fault_domains": {
+                    "FAULT-DOMAIN-1": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard.E4.128",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-2": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard.E4.128",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-3": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard.E4.128",
+                        "instance_shape_config": null
+                    }
+                }
+            },
+            "BM.Standard.E5.192": {
+                "fault_domains": {
+                    "FAULT-DOMAIN-1": {
+                        "availability_status": "OUT_OF_HOST_CAPACITY",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard.E5.192",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-2": {
+                        "availability_status": "OUT_OF_HOST_CAPACITY",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard.E5.192",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-3": {
+                        "availability_status": "OUT_OF_HOST_CAPACITY",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard.E5.192",
+                        "instance_shape_config": null
+                    }
+                }
+            },
+            "BM.GPU.A10.4": {
+                "fault_domains": {
+                    "FAULT-DOMAIN-1": {
+                        "availability_status": "OUT_OF_HOST_CAPACITY",
+                        "available_count": null,
+                        "instance_shape": "BM.GPU.A10.4",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-2": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.GPU.A10.4",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-3": {
+                        "availability_status": "OUT_OF_HOST_CAPACITY",
+                        "available_count": null,
+                        "instance_shape": "BM.GPU.A10.4",
+                        "instance_shape_config": null
+                    }
+                }
+            }
+        },
+        "EU-ZURICH-1-AD-1": {
+            "BM.DenseIO.E4.128": {
+                "fault_domains": {
+                    "FAULT-DOMAIN-1": {
+                        "availability_status": "HARDWARE_NOT_SUPPORTED",
+                        "available_count": null,
+                        "instance_shape": "BM.DenseIO.E4.128",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-2": {
+                        "availability_status": "HARDWARE_NOT_SUPPORTED",
+                        "available_count": null,
+                        "instance_shape": "BM.DenseIO.E4.128",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-3": {
+                        "availability_status": "HARDWARE_NOT_SUPPORTED",
+                        "available_count": null,
+                        "instance_shape": "BM.DenseIO.E4.128",
+                        "instance_shape_config": null
+                    }
+                }
+            },
+            "BM.DenseIO.E5.128": {
+                "fault_domains": {
+                    "FAULT-DOMAIN-1": {
+                        "availability_status": "HARDWARE_NOT_SUPPORTED",
+                        "available_count": null,
+                        "instance_shape": "BM.DenseIO.E5.128",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-2": {
+                        "availability_status": "HARDWARE_NOT_SUPPORTED",
+                        "available_count": null,
+                        "instance_shape": "BM.DenseIO.E5.128",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-3": {
+                        "availability_status": "HARDWARE_NOT_SUPPORTED",
+                        "available_count": null,
+                        "instance_shape": "BM.DenseIO.E5.128",
+                        "instance_shape_config": null
+                    }
+                }
+            },
+            "BM.Standard2.52": {
+                "fault_domains": {
+                    "FAULT-DOMAIN-1": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard2.52",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-2": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard2.52",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-3": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard2.52",
+                        "instance_shape_config": null
+                    }
+                }
+            },
+            "BM.Standard3.64": {
+                "fault_domains": {
+                    "FAULT-DOMAIN-1": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard3.64",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-2": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard3.64",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-3": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard3.64",
+                        "instance_shape_config": null
+                    }
+                }
+            },
+            "BM.Standard.E4.128": {
+                "fault_domains": {
+                    "FAULT-DOMAIN-1": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard.E4.128",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-2": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard.E4.128",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-3": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard.E4.128",
+                        "instance_shape_config": null
+                    }
+                }
+            },
+            "BM.Standard.E5.192": {
+                "fault_domains": {
+                    "FAULT-DOMAIN-1": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard.E5.192",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-2": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard.E5.192",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-3": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard.E5.192",
+                        "instance_shape_config": null
+                    }
+                }
+            },
+            "BM.GPU.A10.4": {
+                "fault_domains": {
+                    "FAULT-DOMAIN-1": {
+                        "availability_status": "HARDWARE_NOT_SUPPORTED",
+                        "available_count": null,
+                        "instance_shape": "BM.GPU.A10.4",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-2": {
+                        "availability_status": "HARDWARE_NOT_SUPPORTED",
+                        "available_count": null,
+                        "instance_shape": "BM.GPU.A10.4",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-3": {
+                        "availability_status": "HARDWARE_NOT_SUPPORTED",
+                        "available_count": null,
+                        "instance_shape": "BM.GPU.A10.4",
+                        "instance_shape_config": null
+                    }
+                }
+            }
+        },
+        "ME-DUBAI-1-AD-1": {
+            "BM.DenseIO.E4.128": {
+                "fault_domains": {
+                    "FAULT-DOMAIN-1": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.DenseIO.E4.128",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-2": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.DenseIO.E4.128",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-3": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.DenseIO.E4.128",
+                        "instance_shape_config": null
+                    }
+                }
+            },
+            "BM.DenseIO.E5.128": {
+                "fault_domains": {
+                    "FAULT-DOMAIN-1": {
+                        "availability_status": "HARDWARE_NOT_SUPPORTED",
+                        "available_count": null,
+                        "instance_shape": "BM.DenseIO.E5.128",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-2": {
+                        "availability_status": "HARDWARE_NOT_SUPPORTED",
+                        "available_count": null,
+                        "instance_shape": "BM.DenseIO.E5.128",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-3": {
+                        "availability_status": "HARDWARE_NOT_SUPPORTED",
+                        "available_count": null,
+                        "instance_shape": "BM.DenseIO.E5.128",
+                        "instance_shape_config": null
+                    }
+                }
+            },
+            "BM.Standard2.52": {
+                "fault_domains": {
+                    "FAULT-DOMAIN-1": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard2.52",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-2": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard2.52",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-3": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard2.52",
+                        "instance_shape_config": null
+                    }
+                }
+            },
+            "BM.Standard3.64": {
+                "fault_domains": {
+                    "FAULT-DOMAIN-1": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard3.64",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-2": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard3.64",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-3": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard3.64",
+                        "instance_shape_config": null
+                    }
+                }
+            },
+            "BM.Standard.E4.128": {
+                "fault_domains": {
+                    "FAULT-DOMAIN-1": {
+                        "availability_status": "OUT_OF_HOST_CAPACITY",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard.E4.128",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-2": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard.E4.128",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-3": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard.E4.128",
+                        "instance_shape_config": null
+                    }
+                }
+            },
+            "BM.Standard.E5.192": {
+                "fault_domains": {
+                    "FAULT-DOMAIN-1": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard.E5.192",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-2": {
+                        "availability_status": "OUT_OF_HOST_CAPACITY",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard.E5.192",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-3": {
+                        "availability_status": "OUT_OF_HOST_CAPACITY",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard.E5.192",
+                        "instance_shape_config": null
+                    }
+                }
+            },
+            "BM.GPU.A10.4": {
+                "fault_domains": {
+                    "FAULT-DOMAIN-1": {
+                        "availability_status": "OUT_OF_HOST_CAPACITY",
+                        "available_count": null,
+                        "instance_shape": "BM.GPU.A10.4",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-2": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.GPU.A10.4",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-3": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.GPU.A10.4",
+                        "instance_shape_config": null
+                    }
+                }
+            }
+        },
+        "ME-JEDDAH-1-AD-1": {
+            "BM.DenseIO.E4.128": {
+                "fault_domains": {
+                    "FAULT-DOMAIN-1": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.DenseIO.E4.128",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-2": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.DenseIO.E4.128",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-3": {
+                        "availability_status": "OUT_OF_HOST_CAPACITY",
+                        "available_count": null,
+                        "instance_shape": "BM.DenseIO.E4.128",
+                        "instance_shape_config": null
+                    }
+                }
+            },
+            "BM.DenseIO.E5.128": {
+                "fault_domains": {
+                    "FAULT-DOMAIN-1": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.DenseIO.E5.128",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-2": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.DenseIO.E5.128",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-3": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.DenseIO.E5.128",
+                        "instance_shape_config": null
+                    }
+                }
+            },
+            "BM.Standard2.52": {
+                "fault_domains": {
+                    "FAULT-DOMAIN-1": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard2.52",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-2": {
+                        "availability_status": "OUT_OF_HOST_CAPACITY",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard2.52",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-3": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard2.52",
+                        "instance_shape_config": null
+                    }
+                }
+            },
+            "BM.Standard3.64": {
+                "fault_domains": {
+                    "FAULT-DOMAIN-1": {
+                        "availability_status": "OUT_OF_HOST_CAPACITY",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard3.64",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-2": {
+                        "availability_status": "OUT_OF_HOST_CAPACITY",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard3.64",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-3": {
+                        "availability_status": "OUT_OF_HOST_CAPACITY",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard3.64",
+                        "instance_shape_config": null
+                    }
+                }
+            },
+            "BM.Standard.E4.128": {
+                "fault_domains": {
+                    "FAULT-DOMAIN-1": {
+                        "availability_status": "OUT_OF_HOST_CAPACITY",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard.E4.128",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-2": {
+                        "availability_status": "OUT_OF_HOST_CAPACITY",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard.E4.128",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-3": {
+                        "availability_status": "OUT_OF_HOST_CAPACITY",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard.E4.128",
+                        "instance_shape_config": null
+                    }
+                }
+            },
+            "BM.Standard.E5.192": {
+                "fault_domains": {
+                    "FAULT-DOMAIN-1": {
+                        "availability_status": "OUT_OF_HOST_CAPACITY",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard.E5.192",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-2": {
+                        "availability_status": "OUT_OF_HOST_CAPACITY",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard.E5.192",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-3": {
+                        "availability_status": "OUT_OF_HOST_CAPACITY",
+                        "available_count": null,
+                        "instance_shape": "BM.Standard.E5.192",
+                        "instance_shape_config": null
+                    }
+                }
+            },
+            "BM.GPU.A10.4": {
+                "fault_domains": {
+                    "FAULT-DOMAIN-1": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.GPU.A10.4",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-2": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.GPU.A10.4",
+                        "instance_shape_config": null
+                    },
+                    "FAULT-DOMAIN-3": {
+                        "availability_status": "AVAILABLE",
+                        "available_count": null,
+                        "instance_shape": "BM.GPU.A10.4",
+                        "instance_shape_config": null
+                    }
+                }
+            }
+        }
+    }
+}
