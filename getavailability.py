@@ -3,6 +3,7 @@ from functions import create_signer
 import json
 from datetime import datetime, timedelta
 import os
+import time
 
 shapes = [
     #"BM.DenseIO.52",
@@ -15,7 +16,7 @@ shapes = [
     "BM.GPU.A10.4"  
 ]
 
-region_prefix = "LYXg:"
+#region_prefix = "LYXg:"
 
 ADs = [
     "UK-LONDON-1-AD-1",
@@ -29,14 +30,14 @@ ADs = [
     "EU-PARIS-1-AD-1",
     "EU-MARSEILLE-1-AD-1",
     "EU-STOCKHOLM-1-AD-1",  # Capacity report does not seem to work against this region
-    #"EU-MADRID-1-AD-1",  # Capacity report does not seem to work against this region
+    "EU-MADRID-1-AD-1",  # Capacity report does not seem to work against this region
     "EU-MILAN-1-AD-1",
     "EU-ZURICH-1-AD-1",
-    #"ME-ABUDHABI-1-AD-1",  # Capacity report does not seem to work against this region
+    "ME-ABUDHABI-1-AD-1",  # Capacity report does not seem to work against this region
     "ME-DUBAI-1-AD-1",
     "ME-JEDDAH-1-AD-1"
-    #"ME-RIYADH-1-AD-1",  # Capacity report does not seem to work against this region   
-    #"IL-JERUSALEM-1-AD-1"  # Capacity report does not seem to work against this region
+    "ME-RIYADH-1-AD-1",  # Capacity report does not seem to work against this region   
+    "IL-JERUSALEM-1-AD-1"  # Capacity report does not seem to work against this region
 ]
 
 FDs = ["FAULT-DOMAIN-1","FAULT-DOMAIN-2","FAULT-DOMAIN-3"]
@@ -122,7 +123,7 @@ def main():
         print ("Gettting capacity for [{}] {}".format(config["region"],AD),end="", flush=True)
 
         response = oci.pagination.list_call_get_all_results(
-            oci.identity.IdentityClient(config, signer=signer).list_availability_domains,
+            oci.identity.IdentityClient(config, signer=signer, retry_strategy=oci.retry.DEFAULT_RETRY_STRATEGY).list_availability_domains,
             compartment_id=tenancy.id
         )
         avail_domain = "{}:{}".format(response.data[0].name.split(":")[0], AD)
@@ -143,8 +144,9 @@ def main():
                 ]
             )
 
-            report = compute.create_compute_capacity_report(create_compute_capacity_report_details=report_details)
+            report = compute.create_compute_capacity_report(create_compute_capacity_report_details=report_details, retry_strategy=oci.retry.DEFAULT_RETRY_STRATEGY)
             ad_data[shape] = serialize_report_data(report.data.shape_availabilities)
+            time.sleep(5)
 
         today_data[AD] = ad_data
         print ("",end="\n", flush=True)
