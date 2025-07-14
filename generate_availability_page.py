@@ -276,7 +276,7 @@ def generate_html(data, target_date, availability_percentage, status_data):
                     tooltip_data = status_data[ad][shape][fd]
                     # Sort tooltip data by date in descending order
                     tooltip_data_sorted = sorted(tooltip_data, key=lambda x: x[0], reverse=True)
-                    tooltip_text = ', '.join([f'{date}: {status}' for date, status in tooltip_data_sorted])
+                    tooltip_text = '\n'.join([f'{date}: {status}' for date, status in tooltip_data_sorted])
                     html += f'                        <td class="{color_class}" title="{tooltip_text}">{percentage:.0f}%</td>\n'
                 else:
                     html += '                        <td class="status-unknown" title="No data">0.0%</td>\n'

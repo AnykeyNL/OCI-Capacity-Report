@@ -16,28 +16,27 @@ shapes = [
     "BM.GPU.A10.4"  
 ]
 
-#region_prefix = "LYXg:"
 
 ADs = [
-    # "UK-LONDON-1-AD-1",
-    # "UK-LONDON-1-AD-2",
-    # "UK-LONDON-1-AD-3",
-    # "UK-CARDIFF-1-AD-1",
-    # "EU-FRANKFURT-1-AD-1",
-    # "EU-FRANKFURT-1-AD-2",
-    # "EU-FRANKFURT-1-AD-3",
-    # "EU-AMSTERDAM-1-AD-1",
-    # "EU-PARIS-1-AD-1",
-    # "EU-MARSEILLE-1-AD-1",
-    # "EU-STOCKHOLM-1-AD-1",  # Capacity report does not seem to work against this region
-    # "EU-MADRID-1-AD-1",  # Capacity report does not seem to work against this region
-    # "EU-MILAN-1-AD-1",
-    # "EU-ZURICH-1-AD-1",
-    # "ME-ABUDHABI-1-AD-1",  # Capacity report does not seem to work against this region
-    # "ME-DUBAI-1-AD-1",
+    "UK-LONDON-1-AD-1",
+    "UK-LONDON-1-AD-2",
+    "UK-LONDON-1-AD-3",
+    "UK-CARDIFF-1-AD-1",
+    "EU-FRANKFURT-1-AD-1",
+    "EU-FRANKFURT-1-AD-2",
+    "EU-FRANKFURT-1-AD-3",
+    "EU-AMSTERDAM-1-AD-1",
+    "EU-PARIS-1-AD-1",
+    "EU-MARSEILLE-1-AD-1",
+    "EU-STOCKHOLM-1-AD-1", 
+    "EU-MADRID-1-AD-1",  
+    "EU-MILAN-1-AD-1",
+    "EU-ZURICH-1-AD-1",
+    "ME-ABUDHABI-1-AD-1", 
+    "ME-DUBAI-1-AD-1",
     "ME-JEDDAH-1-AD-1",
-    "ME-RIYADH-1-AD-1",  # Capacity report does not seem to work against this region   
-    "IL-JERUSALEM-1-AD-1"  # Capacity report does not seem to work against this region
+    "ME-RIYADH-1-AD-1",  
+    "IL-JERUSALEM-1-AD-1" 
 ]
 
 FDs = ["FAULT-DOMAIN-1","FAULT-DOMAIN-2","FAULT-DOMAIN-3"]
@@ -146,7 +145,6 @@ def main():
 
             report = compute.create_compute_capacity_report(create_compute_capacity_report_details=report_details, retry_strategy=oci.retry.DEFAULT_RETRY_STRATEGY)
             ad_data[shape] = serialize_report_data(report.data.shape_availabilities)
-            #time.sleep(5)
 
         today_data[AD] = ad_data
         print ("",end="\n", flush=True)
