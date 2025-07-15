@@ -310,7 +310,7 @@ def generate_html(data, target_date, availability_percentage, status_data):
             <p>Note: This information is gathered using the <a href="https://docs.oracle.com/en-us/iaas/tools/python/latest/api/core/client/oci.core.ComputeClient.html#oci.core.ComputeClient.create_compute_capacity_report">OCI Compute Capacity Report API</a>.</p>
             <p>The report indicates whether an instance is available for a specific shape in a given AD and Fault Domain, but does not show the number of instances available.</p>
             <p>The percentage shows the Availability over the last 30 days.</p>
-            <p>Generated on {generation_time} | OCVS EMEA Availability Dashboard</p>
+            <p>Generated on {generation_time} | OCI BM Availability Dashboard</p>
         </div>
     </div>
 </body>
