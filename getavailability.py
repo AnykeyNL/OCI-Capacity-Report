@@ -29,14 +29,18 @@ ADs = [
     "EU-PARIS-1-AD-1",
     "EU-MARSEILLE-1-AD-1",
     "EU-STOCKHOLM-1-AD-1", 
-    "EU-MADRID-1-AD-1",  
+    "EU-MADRID-1-AD-1",
+    "EU-MADRID-3-AD-1",  
     "EU-MILAN-1-AD-1",
+    "EU-TURIN-1-AD-1",
     "EU-ZURICH-1-AD-1",
     "ME-ABUDHABI-1-AD-1", 
     "ME-DUBAI-1-AD-1",
     "ME-JEDDAH-1-AD-1",
     "ME-RIYADH-1-AD-1",  
-    "IL-JERUSALEM-1-AD-1" 
+    "IL-JERUSALEM-1-AD-1"
+    #"AP-HYDERABAD-1-AD-1"
+    #"AP-MUMBIA-1-AD-1"
 ]
 
 FDs = ["FAULT-DOMAIN-1","FAULT-DOMAIN-2","FAULT-DOMAIN-3"]
